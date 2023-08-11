@@ -7,3 +7,5 @@ I am interested in Gaming & Web Development, UX/UI, and pretty much everything r
 The path sure is a hell of a ride, and I'm willing to take that first step. Everything in life is a marathon, and damn I'm ready for it 🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-Saul0&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-Saul0&hide=contribs,prs)
